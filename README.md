@@ -1,7 +1,13 @@
-# Bem vindos a DARFT software!
+<h1 align="center"> Bem vindos a DARFT software!  </h1>
 
-  
-<img margin-right="20px" src="https://github.com/DARFTsoftware/DARFTsoftware/assets/160743295/132abadd-330a-4ee5-8910-42c4fa0b7c28"></img>
+<br>
+
+  <h1 align="center">
+<center> <img src="https://github.com/DARFTsoftware/DARFTsoftware/assets/160743295/132abadd-330a-4ee5-8910-42c4fa0b7c28" width="" height="" align="center"> </center>
+</h1>
+
+***
+
 
 
 
