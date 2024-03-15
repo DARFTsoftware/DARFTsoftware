@@ -9,11 +9,37 @@
 <br>
 
 ***
+ <br>
 
+# Apresentação
 
-
+Somos a Darft Software, uma empresa de tecnologia inovadora focada em criar soluções digitais que fazem a diferença. Nossa missão é criar soluções inovadoras e acessíveis, oferecendo ferramentas digitais de alta qualidade para nossos clientes.
 
 <br>
+
+# Quem somos?
+
+Somos uma equipe dedicada de entusiastas da tecnologia, apaixonados por criar soluções inteligentes e criativas para os desafios contemporâneos. 
+
+Conheça os nossos programadores:
+* Wanderson Santos Almeida
+* Túllyo Honório
+* Renan de Almeida
+* Fábio Neto
+* Diego
+
+<br>
+
+# Nosso Projeto Atual: Guia Canino
+Estamos entusiasmados em apresentar nosso projeto mais recente, o Guia Canino. Este é um site abrangente que oferece informações detalhadas sobre raças de cachorro, comparações entre diferentes raças e orientações valiosas para pessoas que estão pensando em comprar ou adotar um cachorro. Com o Guia Canino, estamos trazendo uma abordagem inovadora e amigável para ajudar os amantes de cães a tomar decisões informadas e responsáveis.
+
+<br>
+
+***
+
+<br>
+
+# Missão, visão, valores
 
 ## Missão:
 * Nossa missão é criar soluções inovadoras e acessíveis, oferecendo ferramentas digitais de alta qualidade para nossos clientes
