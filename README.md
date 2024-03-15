@@ -44,15 +44,12 @@ Estamos entusiasmados em apresentar nosso projeto mais recente, o Guia Canino. E
 ## Missão:
 * Nossa missão é criar soluções inovadoras e acessíveis, oferecendo ferramentas digitais de alta qualidade para nossos clientes
   
-***
 
 <br>
 
 
 ## Visão:
 * Nossa visão é ser reconhecida como uma empresa líder no setor, inspirando outros jovens e contribuindo para um futuro digital inclusivo e sustentável em escala global
-
-***
 
 <br>
 
