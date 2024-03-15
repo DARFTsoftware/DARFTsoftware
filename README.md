@@ -1,5 +1,10 @@
 # Bem vindos a DARFT software!
 
+  
+<img margin-right="20px" src="https://github.com/DARFTsoftware/DARFTsoftware/assets/160743295/132abadd-330a-4ee5-8910-42c4fa0b7c28"></img>
+
+
+
 <br>
 
 ## Missão:
