@@ -1,4 +1,4 @@
-<h1 align="center"> Bem vindos a DARFT software!  </h1>
+<h1 align="center"> Bem vindo a DARFT software!  </h1>
 
 <br>
 
